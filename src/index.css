@@ -1,0 +1,6 @@
+@import '../node_modules/h8k-design/dist/index.css';
+
+.app-container {
+    max-width: 601px;
+    margin: 0 auto;
+}
